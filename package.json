@@ -1,0 +1,10 @@
+{
+  "name": "webhack",
+  "version": "0.1.0",
+  "repository": "https://github.com/zioroboco/webhack",
+  "author": "Louis Quinnell <zioroboco@gmail.com>",
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+  }
+}
